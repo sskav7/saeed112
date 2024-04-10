@@ -1,0 +1,3 @@
+elestia-appd keys add $CELESTIA_WALLET
+elestia-appd keys add $CELESTIA_WALLET
+elestia-appd keys add $CELESTIA_WALLET
